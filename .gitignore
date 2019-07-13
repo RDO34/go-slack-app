@@ -1,0 +1,11 @@
+.env
+
+.idea/
+.vscode/
+
+vendor/
+Gopkg.lock
+
+*.log
+
+go-slack-app
